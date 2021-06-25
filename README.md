@@ -39,3 +39,7 @@ J'approuve, mais cela ne fais gagner 0 FPS.
 ```
 ```
 Pourquoi lancer un .exe pour désactiver Cortana alors que tu peux ouvrir le CMD et taper "powershell Get-AppxPackage -allusers Microsoft.549981C3F5F10 ^| Remove-AppxPackage"
+```
+```
+Performance Optimale.cmd
+C'est aussi compliqué d'ouvrir le "CMD" et taper "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61"

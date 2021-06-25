@@ -43,3 +43,12 @@ Pourquoi lancer un .exe pour désactiver Cortana alors que tu peux ouvrir le CMD
 ```
 Performance Optimale.cmd
 C'est aussi compliqué d'ouvrir le "CMD" et taper "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61"
+```
+```
+UnParkCPU.exe
+Unparkcpu sert de base à retirer la veille sur certains coeurs du processeur, chose que windows ne fait plus depuis 2017
+```
+```
+Wub.exe
+Pourquoi désactiver Windows Update, ce qui cause la perte du Windows Store, et cela sert à quoi de plus mettre Windows à jour ? à rien. Tu gagne 0 FPS.
+```

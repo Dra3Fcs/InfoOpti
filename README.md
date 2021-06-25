@@ -19,3 +19,9 @@ Pourquoi vouloir créer un raccourcis, ça fais gagner des FPS ? NON
 InSpectre.exe
 Ce logiciel permet d'empêcher les attaques Meltdown et Spectre. Mais pourquoi les désactiver sa fais gagner des FPS ? NON
 ```
+```
+16GB.reg
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control]
+"SvcHostSplitThresholdInKB"=dword:16777216
+Ce regedit permet de rassembler les SvcHost. lorsqu'un service d'un hôte de service échoue, tous les services de l'hôte de service échouent, ça fais gagner 0 FPS
+```

@@ -9,5 +9,6 @@ Memory Cleaner.exe
 ```
 ```
 Enlever AccéSouris.reg
+Une explication parfaite sur l'accélération souris by @Piwielle : https://youtu.be/YM9SdIT6K20
 ```
 

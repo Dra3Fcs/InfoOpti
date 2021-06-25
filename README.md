@@ -33,3 +33,7 @@ Pourquoi désactiver l'anti-virus qui vous protège des malwares? Est-ce qu'on g
 Delete Temp Files.Ink
 C'est vrai que c'est compliqué de faire "Windows" + "R", tapez "%temp% et "temp" et de supprimer les fichiers.
 ```
+```
+Device Cleanup.exe
+J'approuve, mais cela ne fais gagner 0 FPS.
+```

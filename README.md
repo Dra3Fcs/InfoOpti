@@ -5,7 +5,7 @@ Vous trouverez ci-dessous son pack d'optimisation. Il y'a beaucoup de choses qui
 
 ```
 Memory Cleaner.exe
-→ Pourquoi vider la ram c'est inutile? https://pastebin.com/kEeQvfT3
+→ Pourquoi vider la ram c'est inutile? https://pastebin.com/kEeQvfT3 by @Emie
 ```
 ```
 Enlever AccéSouris.reg

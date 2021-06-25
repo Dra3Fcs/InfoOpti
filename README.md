@@ -13,5 +13,5 @@ Une explication parfaite sur l'accélération souris by @Piwielle : https://yout
 ```
 ```
 Fortnite.Ink
-Pourquoi vouloir créer un raccoursis, ça fais gagner des FPS ? NON
+Pourquoi vouloir créer un raccourcis, ça fais gagner des FPS ? NON
 ```

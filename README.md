@@ -29,4 +29,7 @@ Ce regedit permet de rassembler les SvcHost. lorsqu'un service d'un hôte de ser
 Defender.reg
 Pourquoi désactiver l'anti-virus qui vous protège des malwares? Est-ce qu'on gagne des FPS ? NON, un peu de RAM.
 ```
-
+```
+Delete Temp Files.Ink
+C'est vrai que c'est compliqué de faire "Windows" + "R", tapez "%temp% et "temp" et de supprimer les fichiers.
+```

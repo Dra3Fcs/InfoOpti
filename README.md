@@ -15,3 +15,7 @@ Une explication parfaite sur l'accélération souris by @Piwielle : https://yout
 Fortnite.Ink
 Pourquoi vouloir créer un raccourcis, ça fais gagner des FPS ? NON
 ```
+```
+InSpectre.exe
+Ce logiciel permet d'empêcher les attaques Meltdown et Spectre. Mais pourquoi les désactiver sa fais gagner des FPS ? NON
+```

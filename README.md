@@ -25,3 +25,8 @@ Ce logiciel permet d'empêcher les attaques Meltdown et Spectre. Mais pourquoi l
 "SvcHostSplitThresholdInKB"=dword:16777216
 Ce regedit permet de rassembler les SvcHost. lorsqu'un service d'un hôte de service échoue, tous les services de l'hôte de service échouent, ça fais gagner 0 FPS
 ```
+```
+Defender.reg
+Pourquoi désactiver l'anti-virus qui vous protège des malwares? Est-ce qu'on gagne des FPS ? NON, un peu de RAM.
+```
+

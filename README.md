@@ -37,3 +37,5 @@ C'est vrai que c'est compliqué de faire "Windows" + "R", tapez "%temp% et "temp
 Device Cleanup.exe
 J'approuve, mais cela ne fais gagner 0 FPS.
 ```
+```
+Pourquoi lancer un .exe pour désactiver Cortana alors que tu peux ouvrir le CMD et taper "powershell Get-AppxPackage -allusers Microsoft.549981C3F5F10 ^| Remove-AppxPackage"
